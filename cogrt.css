@@ -1,0 +1,8 @@
+body {
+    color: #ffffff;
+    background-color: #000000;
+}
+
+.jspsych-survey-likert-opt-label {
+    color: #bbbbbb !important; /* original: #444444 */
+}
